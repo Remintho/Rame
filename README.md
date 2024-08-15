@@ -1,7 +1,5 @@
-# Rame
-Cybersecurity| Networking | Researcher  
 <h1 align="center">Hi 👋, I'm Rame</h1>
-<h3 align="center">Cybersecurity and Networking specialist</h3>
+<h3 align="center">Cybersecurity| Networking | Researcher  </h3>
 
 <br>
 
