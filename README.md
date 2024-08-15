@@ -5,11 +5,6 @@
 
 <p><img align="right" src="https://github.com/remintho/remintho/blob/main/animation_500_kxa883sd.gif" alt="remintho" /></p>
 
-
-- 🌱 I’m currently learning intrect world of Cybersecurity 
-
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
-- 
 <br>
 
 
